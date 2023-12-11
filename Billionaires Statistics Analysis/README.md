@@ -16,31 +16,31 @@ Performed tasks like changing data types, checking for duplicates, formatting va
 
 ## Key Findings 💡
 ### 1) Distribution of Billionaires Net Worth Globally 💰
-#### Top 5 Countries: France, Mexico, Belgium, Nigeria, Austria
+Top 5 Countries: France, Mexico, Belgium, Nigeria, Austria
 
 ### 2) Wealth Distribution Across Categories 🌐
-#### Top 5 Categories: Automotive, Logistics, Telecom, Fashion & Retail, Technology
+Top 5 Categories: Automotive, Logistics, Telecom, Fashion & Retail, Technology
 
 ### 3) Average Age of Billionaires 🎂
-#### The average age is 65.
+The average age is 65.
 
 ### 4) Self-Made Billionaires 🔄
-#### 70% of billionaires are self-made.
+70% of billionaires are self-made.
 
 ### 5) Countries with the Highest Concentration of Billionaires 🌎
-#### Top 5 Countries: United States, China, India, Germany, Russia
+Top 5 Countries: United States, China, India, Germany, Russia
 
 ### 6) Relationship Between GDP and Number of Billionaires 📈
-#### No direct relationship found.
+No direct relationship found.
 
 ### 7) Industries Producing the Highest Number of Billionaires 🏢
-#### Top 5 Industries: Finance & Investment, Technology, Manufacturing, Fashion & Retail, Food & Beverage
+Top 5 Industries: Finance & Investment, Technology, Manufacturing, Fashion & Retail, Food & Beverage
 
 ### 8) Most Common Sources of Wealth Among Self-Made Billionaires 👥
-#### Top 5 sources: Technology, Finance & Investments, Manufacturing, Fashion & Retail, Healthcare
+Top 5 sources: Technology, Finance & Investments, Manufacturing, Fashion & Retail, Healthcare
 
 ### 9) Gender Distribution 🚹
-#### Majority of billionaires are male.
+Majority of billionaires are male.
 
 ### And many more Insights……………
 
