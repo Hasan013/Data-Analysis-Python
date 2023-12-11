@@ -14,7 +14,7 @@ Performed tasks like changing data types, checking for duplicates, formatting va
 •	Bivariate Analysis.<br>
 •	Multivariate Analysis.
 
-# Key Findings 💡
+## Key Findings 💡
 ### 1) Distribution of Billionaires Net Worth Globally 💰
 #### Top 5 Countries: France, Mexico, Belgium, Nigeria, Austria
 
