@@ -10,36 +10,36 @@ Imported essential libraries such as pandas, numpy, matplotlib, seaborn, etc.
 ### 3) Data Cleaning & Transformation 🧹
 Performed tasks like changing data types, checking for duplicates, formatting values, adding new columns, deleting unnecessary ones, and addressing null values.
 ### 4) Exploratory Data Analysis 🔍
-•	Univariate Analysis.
-•	Bivariate Analysis.
+•	Univariate Analysis.<br>
+•	Bivariate Analysis.<br>
 •	Multivariate Analysis.
 
 # Key Findings 💡
-#### 1) Distribution of Billionaires Net Worth Globally 💰
+## 1) Distribution of Billionaires Net Worth Globally 💰
 ### Top 5 Countries: France, Mexico, Belgium, Nigeria, Austria
 
-#### 2) Wealth Distribution Across Categories 🌐
+## 2) Wealth Distribution Across Categories 🌐
 ### Top 5 Categories: Automotive, Logistics, Telecom, Fashion & Retail, Technology
 
-#### 3) Average Age of Billionaires 🎂
+## 3) Average Age of Billionaires 🎂
 ### The average age is 65.
 
-#### 4) Self-Made Billionaires 🔄
+## 4) Self-Made Billionaires 🔄
 ### 70% of billionaires are self-made.
 
-#### 5) Countries with the Highest Concentration of Billionaires 🌎
+## 5) Countries with the Highest Concentration of Billionaires 🌎
 ### Top 5 Countries: United States, China, India, Germany, Russia
 
-#### 6) Relationship Between GDP and Number of Billionaires 📈
+## 6) Relationship Between GDP and Number of Billionaires 📈
 ### No direct relationship found.
 
-#### 7) Industries Producing the Highest Number of Billionaires 🏢
+## 7) Industries Producing the Highest Number of Billionaires 🏢
 ### Top 5 Industries: Finance & Investment, Technology, Manufacturing, Fashion & Retail, Food & Beverage
 
-#### 8) Most Common Sources of Wealth Among Self-Made Billionaires 👥
+## 8) Most Common Sources of Wealth Among Self-Made Billionaires 👥
 ### Top 5 sources: Technology, Finance & Investments, Manufacturing, Fashion & Retail, Healthcare
 
-#### 9) Gender Distribution 🚹
+## 9) Gender Distribution 🚹
 ### Majority of billionaires are male.
 
 #### And many more Insights……………
