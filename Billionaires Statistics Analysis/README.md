@@ -3,6 +3,8 @@
 ## Introduction 🚀
 Just completed an engaging Billionaires Statistics Analysis project utilizing Python. Join me on a quick tour of this intriguing data exploration.
 
+### [Lets Explore Notebook Here](https://github.com/Hasan013/Data-Analysis-Python/blob/main/Billionaires%20Statistics%20Analysis/Notebook/Billionaires%20Statistics.ipynb)
+
 ## Methodology 🔍
 ### 1) Fulfilling Requirements 🛠️
 Imported essential libraries such as pandas, numpy, matplotlib, seaborn, etc.
