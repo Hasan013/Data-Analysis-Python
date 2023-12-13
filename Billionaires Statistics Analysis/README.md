@@ -64,5 +64,7 @@ A very big thanks to the Kaggle for this awesome Billionaires dataset which help
 Link to Download the Dataset: 
 [Click Here](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset/download?datasetVersionNumber=1)
 
+[Click here to get into the Notebook](https://github.com/Hasan013/Data-Analysis-Python/blob/main/Billionaires%20Statistics%20Analysis/Notebook/Billionaires%20Statistics.ipynb)
+
 Thank you! 🚀 
 
