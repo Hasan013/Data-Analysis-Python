@@ -1,4 +1,4 @@
-[Billionaires Statistics Analysis](https://github.com/Hasan013/Data-Analysis-Python/blob/main/Billionaires%20Statistics%20Analysis/Notebook/Billionaires%20Statistics%20Analysis.PNG)
+![Billionaires Statistics Analysis](https://github.com/Hasan013/Data-Analysis-Python/blob/main/Billionaires%20Statistics%20Analysis/Notebook/Billionaires%20Statistics%20Analysis.PNG)
 # Billionaires Statistics Analysis
 
 ## Introduction
